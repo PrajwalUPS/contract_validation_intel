@@ -1,0 +1,8 @@
+PyPDF2
+spacy
+nltk
+pdf2image
+Pillow
+openvino
+fitz
+PyMuPDF
